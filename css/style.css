@@ -1,0 +1,44 @@
+.navsm{
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 30%;
+    
+}
+.colornav{
+    color: white;
+}
+.colornavlight{
+    color: #7f0000
+}
+
+td{
+    width: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.cov{
+    text-align: center;
+    padding-top: 150px
+}
+.carddd{
+    background-color:#2f3a6d;
+    padding: 40px
+}
+.carddd2{
+    background-color:#c5e1a5;
+    padding: 40px
+
+}
+.masg{
+    background-color: rgb(59, 59, 59);
+    padding: 50px;
+}
+
+.formblok{
+    display:inline-block;
+}
+h4,h5,.foot{
+    color: rgb(224, 224, 224);
+}
+.foot{
+    font-size: 0.9rem;
+}
